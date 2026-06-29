@@ -6,9 +6,9 @@ Contiene tutte le risorse condivise utilizzate durante lo sviluppo assistito dal
 
 Struttura
 .claude/
-├── skills/      # Competenze e workflow riutilizzabili
-├── prompts/     # Prompt pronti all'uso
-├── docs/        # Documentazione e linee guida generali
+├── skills/      # Competenze e workflow riutilizzabili.
+├── prompts/     # Prompt pronti all'uso.
+├── docs/        # Documentazione e linee guida generali.
 
 Utilizzo
 
