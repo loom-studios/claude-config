@@ -9,7 +9,7 @@ Struttura
 ├── skills/      # Competenze e workflow riutilizzabili
 ├── prompts/     # Prompt pronti all'uso
 ├── docs/        # Documentazione e linee guida generali
-└── tools/       # Script e utility
+
 Utilizzo
 
 Questo repository non contiene codice applicativo, ma esclusivamente configurazioni condivise.
